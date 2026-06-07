@@ -11,11 +11,6 @@ som DNS-filtrering parallellt, utan att de påverkar varandra.
 AdGuard Home körs som LXC-container och hanterar DNS-filtrering och
 reklamblockning för hela nätverket.
 
-Homepage körs som LXC-container och är en samlad startpage för alla
-tjänster i homelabbet.
-
-Hermes körs som LXC-container.
-
 Home Assistant körs som QEMU VM och hanterar all hemautomation,
 Zigbee-enheter och smarta produkter.
 
