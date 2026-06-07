@@ -1,3 +1,6 @@
+!(https://github.com/user-attachments/assets/1a421901-67bd-4062-b3be-4d948c7bf66d)
+
+
 ## Homelab
 
 Ett dokumenterat homelab-projekt byggt på Proxmox VE. Målet var att
