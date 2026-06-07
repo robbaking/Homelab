@@ -153,7 +153,8 @@ som smarta lampor och sensorer.
 ## Skärmdumpar
 
 ### Proxmox
-![Proxmox dashboard](screenshots/proxmox.png)
+![Proxmox dashboard](<img width="1917" height="943" alt="Skärmbild 2026-06-07 160410" src="https://github.com/user-attachments/assets/eeb5f624-2d34-4d91-bfd4-f4dbd82491d9" />)
 
 ### Home Assistant
-![Home Assistant dashboard](screenshots/homeassistant.png)
+![Home Assistant dashboard](<img width="1918" height="946" alt="Skärmbild 2026-06-07 160539" src="https://github.com/user-attachments/assets/4dd93d37-76c3-4d98-829e-e24902a73c5a" />
+)
